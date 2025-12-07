@@ -1,4 +1,4 @@
-**Employee Attrition Prediction**
+ **Employee Attrition Prediction**
 
 This project builds a powerful, production-ready Employee Attrition Prediction System using advanced machine learning techniques.
 It uses SMOTE, feature engineering, cross-validation, and a stacked ensemble model to accurately classify whether an employee is likely to leave the company.
@@ -46,13 +46,15 @@ Gradient Boosting Classifier achieved an accuracy of 0.9089, precision of 0.9243
 XGBoost Classifier delivered the strongest results, with an accuracy of 0.9271, precision of 0.9451, recall of 0.9068, F1-score of 0.9256, and ROC-AUC of 0.9271.
 Stacking Classifier performed competitively with an accuracy of 0.9392, precision of 0.9428, recall of 0.9352, F1-score of 0.9390, and ROC-AUC of 0.9392.
 
-**The GUI allows HR teams to:**
+**Gui Results**
 
-1 Enter 11 features via sidebar
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/9eb348ab-1d11-4a15-9fcc-efbb2e147aaa" />
 
-2 Validate logical constraints
+                                                         User interface
 
-3 View prediction with probability
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/e1231a04-18d6-40c8-b3cb-c00a770118de" />
 
-4 See key risk indicators (OverTime, JobSatisfaction, WLB)
+                                                        Predicting attrition
+
+
 
