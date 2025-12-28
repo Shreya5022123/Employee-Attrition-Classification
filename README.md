@@ -3,6 +3,8 @@
 This project builds a powerful, production-ready Employee Attrition Prediction System using advanced machine learning techniques.
 It uses SMOTE, feature engineering, cross-validation, and a stacked ensemble model to accurately classify whether an employee is likely to leave the company.
 
+Dataset link: https://www.kaggle.com/datasets/salmaneunus/rock-classification
+
 **Features of This Project**
  1. HR Attrition Dataset (IBM HR Analytics Dataset)
  2. Data preprocessing & categorical encoding
